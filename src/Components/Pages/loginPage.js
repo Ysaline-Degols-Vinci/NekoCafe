@@ -124,7 +124,7 @@ async function onLogin(event) {
 
   const username = document.querySelector('#username').value;
   const password = document.querySelector('#password').value;
-
+  console.log(`${process.env.API_BASE_URL}`);
   const response = await fetch(`${process.env.API_BASE_URL}/auths/login`, {
     method: 'POST',
     body: JSON.stringify({ username, password }),
