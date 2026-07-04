@@ -1,3 +1,13 @@
+# THIS IS NOT THE ORIGINAL PROJECT. 
+## Please check the repository web2-2023-project-group_17 pinned on my profile! 
+
+
+#
+#
+#
+#
+
+
 # Boilerplate pour vos applications modernes utilisant Webpack, Phaser (Jeux en 2D) et un routeur
 # How to use ?
 - Si vous ne l'avez pas fait, vous pouvez cloner le repo associé au boilerplate pour initier votre application : `git clone https://github.com/e-vinci/js-router-boilerplate.git` ou `git clone https://github.com/e-vinci/js-router-boilerplate.git nom-de-votre-projet` pour créer votre projet nommé `nom-de-votre-projet`.
